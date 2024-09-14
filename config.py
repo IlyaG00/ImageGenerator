@@ -1,3 +1,3 @@
-api_key = '19FE0B5F225D41EF3C0858B57388EAA2'
-secret_key = '1CA08BE8DD0B8A8CFA199657EAB94EC6'
-bot_key = '6407810372:AAHzxHoPhpObb5JQpENQFZE9ob34XL22q_Y'
+api_key = ''
+secret_key = ''
+bot_key = ''
